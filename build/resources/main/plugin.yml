@@ -1,0 +1,7 @@
+name: NMSTry
+author: TheDarven
+version: 1.0.0
+main: fr.thedarven.nmstry.Main
+commands:
+  test:
+    description: une commande de test

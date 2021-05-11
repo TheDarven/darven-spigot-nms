@@ -1,0 +1,45 @@
+fr/thedarven/nmstry/utils/anvil/AnvilGUI.java
+ fr.thedarven.nmstry.utils.anvil.AnvilGUI
+fr/thedarven/nmstry/utils/anvil/AnvilClickHandler.java
+ fr.thedarven.nmstry.utils.anvil.AnvilClickHandler
+fr/thedarven/nmstry/utils/anvil/AnvilGUIListener.java
+ fr.thedarven.nmstry.utils.anvil.AnvilGUIListener
+fr/thedarven/nmstry/utils/anvil/AnvilCustom.java
+ fr.thedarven.nmstry.utils.anvil.AnvilCustom
+fr/thedarven/nmstry/utils/scoreboard/Scoreboard.java
+ fr.thedarven.nmstry.utils.scoreboard.Scoreboard
+ fr.thedarven.nmstry.utils.scoreboard.Scoreboard$DisplayScoreboardEnum
+ fr.thedarven.nmstry.utils.scoreboard.Scoreboard$ScoreboardLine
+ fr.thedarven.nmstry.utils.scoreboard.Scoreboard$ScoreboardObjectiveActionEnum
+fr/thedarven/nmstry/utils/scoreboard/ScoreboardPlayer.java
+ fr.thedarven.nmstry.utils.scoreboard.ScoreboardPlayer
+fr/thedarven/nmstry/Main.java
+ fr.thedarven.nmstry.Main
+fr/thedarven/nmstry/utils/scoreboard/ScoreboardManager.java
+ fr.thedarven.nmstry.utils.scoreboard.ScoreboardManager
+fr/thedarven/nmstry/utils/Reflection.java
+ fr.thedarven.nmstry.utils.Reflection
+fr/thedarven/nmstry/utils/profile/CustomGamePlayer.java
+ fr.thedarven.nmstry.utils.profile.CustomGamePlayer
+fr/thedarven/nmstry/utils/npc/FakePlayer.java
+ fr.thedarven.nmstry.utils.npc.FakePlayer
+fr/thedarven/nmstry/utils/anvil/AnvilNMS.java
+ fr.thedarven.nmstry.utils.anvil.AnvilNMS
+fr/thedarven/nmstry/utils/f3/DisableF3.java
+ fr.thedarven.nmstry.utils.f3.DisableF3
+fr/thedarven/nmstry/listeners/TestCommand.java
+ fr.thedarven.nmstry.listeners.TestCommand
+fr/thedarven/nmstry/listeners/ListenerManager.java
+ fr.thedarven.nmstry.listeners.ListenerManager
+fr/thedarven/nmstry/utils/title/Title.java
+ fr.thedarven.nmstry.utils.title.Title
+fr/thedarven/nmstry/utils/item/ItemBuilder.java
+ fr.thedarven.nmstry.utils.item.ItemBuilder
+fr/thedarven/nmstry/utils/title/TabMessage.java
+ fr.thedarven.nmstry.utils.title.TabMessage
+fr/thedarven/nmstry/utils/title/ActionBar.java
+ fr.thedarven.nmstry.utils.title.ActionBar
+fr/thedarven/nmstry/listeners/JoinListener.java
+ fr.thedarven.nmstry.listeners.JoinListener
+fr/thedarven/nmstry/utils/skull/Skull.java
+ fr.thedarven.nmstry.utils.skull.Skull
