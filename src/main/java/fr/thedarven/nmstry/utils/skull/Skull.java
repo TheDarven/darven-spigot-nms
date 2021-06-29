@@ -13,7 +13,7 @@ import org.bukkit.inventory.meta.SkullMeta;
 import java.util.UUID;
 
 /**
- * Creates custom Skull item
+ * Creates and modifies custom Skull item
  *
  * @author TheDarven
  */
@@ -27,7 +27,17 @@ public class Skull {
      */
     public static ItemStack getCustomSkull(String url) {
         ItemStack head = new ItemStack(Material.SKULL_ITEM, 1, (short) 3);
+        return getCustomSkull(url, head);
+    }
 
+    /**
+     * Modifies a Skull item with specific url skin
+     *
+     * @param url the url
+     * @param head the skull itemstack
+     * @return the skull Itemstack modified
+     */
+    public static ItemStack getCustomSkull(String url, ItemStack head) {
         GameProfile profile = new GameProfile(UUID.randomUUID(), null);
         PropertyMap propertyMap = profile.getProperties();
 
